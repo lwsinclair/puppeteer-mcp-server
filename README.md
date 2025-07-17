@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/merajmehrabi-puppeteer-mcp-server-badge.png)](https://mseep.ai/app/merajmehrabi-puppeteer-mcp-server)
+
 # Puppeteer MCP Server
 
 [![smithery badge](https://smithery.ai/badge/@merajmehrabi/puppeteer-mcp-server)](https://smithery.ai/server/@merajmehrabi/puppeteer-mcp-server)
